@@ -4,7 +4,7 @@ Press `R`, `G`, or `B` to chnage color.
 
 ## building
 
-Only tested on Linux. If you're not on linux (or something other than debian), run this:
+Only tested on Linux. Eventually, I will setup some docker magic to make it work on other systems.
 
 Install dependencies:
 
